@@ -7,5 +7,6 @@ LIST:
 --------------------------------------
 2-checking weather
 --------------------------------------
-3-file organizer
+3-file organizer:
+>>howto use? after running,just pick a drive or a folder and hit a rocket!!
 --------------------------------------
